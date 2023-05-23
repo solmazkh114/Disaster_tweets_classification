@@ -1,0 +1,4 @@
+* ignore Data folder
+Data/
+
+/kaggle.json
