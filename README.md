@@ -2,7 +2,7 @@
 
 This project is among Kaggle competetion projects with aims to classify tweets into two classes: the one that are about a disaster and the one which are not. You can find the dataset [here](https://www.kaggle.com/competitions/nlp-getting-started/overview). We provided two Jupyter Notebook files: one for machine learning algorithms and the other one for deep learning algorithms including Bert and LSTM.
 
-The DisasterTweet file which contians ML algorithms covers all needed process before model training including preprocessing, visualization, and feature engineering. We extracted some useful and meaningful features to the main dataset including 
+The DisasterTweet file which contians ML algorithms covers all needed process before model training including preprocessing, visualization, and feature engineering. We extracted some useful and meaningful features from the dataset including 
 
 - number of words
 - number of sentences
