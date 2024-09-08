@@ -1,6 +1,6 @@
 # Disaster Tweets: A text clessification task
 
-This project is among Kaggle competition projects with aims to classify tweets into two classes: the one that are about a disaster and the one which are not. You can find the dataset [here](https://www.kaggle.com/competitions/nlp-getting-started/overview). We provided two Notebook files: one for machine learning algorithms and the other one for deep learning algorithm (LSTM) and a LLM (LSTM).
+This project is among Kaggle competition projects with aims to classify tweets into two classes: the one that are about a disaster and the one which are not. You can find the dataset [here](https://www.kaggle.com/competitions/nlp-getting-started/overview). We provided two Notebook files: one for machine learning algorithms and the other one for deep learning algorithm (LSTM) and a LLM (Bert).
 
 The DisasterTweet.ipynb file which contains ML algorithms covers all needed process before model training including preprocessing, visualization, and feature engineering. We extracted some useful and meaningful features from the dataset including 
 
